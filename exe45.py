@@ -27,3 +27,4 @@ elif jkp == 3:
         print('Eu também escolhi tesoura\nEmpate.')
 else:
     print('Valor inválido, tente novamente.')
+print('YAY')
