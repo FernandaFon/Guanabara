@@ -1,2 +1,2 @@
-print('Hello World')
-response = input('Your name: ')
+for c in range(3):
+    print('Olá')
